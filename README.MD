@@ -22,11 +22,11 @@ This Documentum REST Services client is written with Objective-C code.
 3. Xcode is recommended as IDE to build, compile and run this project.
 
 ### How To Use
-1. Set required values as real situation by replacing the following italic parts.
+1. Set required values as real situation by replacing the following angle bracket parts.
 >		NSString * const SERVER_URL = @"http://127.0.0.1:8080";
->		NSString * const USERNAME = @"***username of repository***";
->		NSString * const PASSWORD = @"***password of this user***";
->		NSString * const CABINETS_URI =  @"/***deployed name***/repositories/***repo name***/cabinets.json";
+>		NSString * const USERNAME = @"<username of repository>";
+>		NSString * const PASSWORD = @"<password of this user>";
+>		NSString * const CABINETS_URI =  @"/<deployed name>/repositories/<repo name>/cabinets.json";
 
 2. Build the project with **Xcode**.
 	* Just click on the triangle mark on the top left to build and run.
