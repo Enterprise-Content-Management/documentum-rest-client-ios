@@ -1,4 +1,4 @@
-Documentum REST Objective C Client Samples
+Documentum REST IOS Objective-C Client Samples
 =========
 
 This IOS project contains a reference implementation of Documentum REST Services client written in Objective-C code. The
